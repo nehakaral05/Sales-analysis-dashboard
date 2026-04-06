@@ -43,7 +43,7 @@ This project analyzes sales data from a superstore to identify key revenue drive
 - Fluctuations indicate inconsistent performance
 
 ### 6. Key Metrics
--Total Sales : 2.29M
+-Total Sales : 2,297k
 -Total Profit: 286k
 -Total Quality Sold : 38k
 -Average Order Value: 458.6
