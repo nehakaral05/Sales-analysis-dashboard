@@ -1,7 +1,7 @@
 # Sales Analysis Dashboard
 
 ## 📌 Objective
-Analyze sales data to understand revenue trends, regional performance, and key business drivers.
+This project analyzes sales data from a superstore to identify key revenue drivers, customer behaviour, and regional performance.
 
 ---
 
@@ -22,7 +22,7 @@ Analyze sales data to understand revenue trends, regional performance, and key b
 ## 📈 Key Insights
 
 ### 1. Regional Performance
-- West region generated highest sales (~725K)  
+- West region leads in sales, indicating strong market demand or better distribution strategy compared to other regions
 - South region showed lowest performance  
 👉 Indicates imbalance in regional sales performance  
 
@@ -40,16 +40,23 @@ Analyze sales data to understand revenue trends, regional performance, and key b
 
 ### 5. Sales Trend
 - Overall sales show growth over time  
-- Fluctuations indicate inconsistent performance  
+- Fluctuations indicate inconsistent performance
+
+### 6. Key Metrics
+-Total Sales : 2.29M
+-Total Profit: 286k
+-Total Quality Sold : 38k
+-Average Order Value: 458.6
 
 ---
 
 ## 💡 Business Recommendations
 
-- Improve sales strategy in low-performing regions (South)  
-- Reduce dependency on Technology category  
-- Focus marketing on high-performing products  
-- Investigate reasons behind sales fluctuations  
+- Strengthen sales strategy in underperforming regions like south through targeted marketing
+- Reduce reliance on Technology category by promoting Furniture and Offive Supplies
+- Focus on high-performing products like Phones to maximize revenue
+- Investigate causes of inconsistent sales trends to stablize growth
+
 
 ---
 
