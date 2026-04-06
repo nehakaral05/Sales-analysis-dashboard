@@ -54,7 +54,7 @@ Analyze sales data to understand revenue trends, regional performance, and key b
 ---
 
 ## 📷 Dashboard Preview
-(Add your screenshot here)
+
 
 ---
 
